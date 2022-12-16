@@ -28,7 +28,9 @@
 
 ## 프로젝트 설명
 1. 구현 기능
-2. ERD
+2. ERD 
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdk5CA5%2FbtrTReKyvEJ%2F9LuSipELSbTEJVOk1jKU7K%2Fimg.png">
+          
 3. 시퀀스 다이어그램
 
 

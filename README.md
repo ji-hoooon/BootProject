@@ -27,11 +27,15 @@
 
 
 ## 프로젝트 설명
-1. 구현 기능
+1. 모델링
+  * 개념적 모델링
+   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcpiua4%2FbtrTR7YKI2d%2FEV4Dni7RyEkJ91deuAahW0%2Fimg.png">
+
 2. ERD 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdk5CA5%2FbtrTReKyvEJ%2F9LuSipELSbTEJVOk1jKU7K%2Fimg.png">
           
 3. 시퀀스 다이어그램
+
 
 
 ## 사용한 기술 스택

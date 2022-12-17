@@ -34,7 +34,7 @@
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdk5CA5%2FbtrTReKyvEJ%2F9LuSipELSbTEJVOk1jKU7K%2Fimg.png">
           
 3. 시퀀스 다이어그램
-
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbirch8%2FbtrTR0r7WMz%2F2zJiaXdzR042IoPmW7bPnK%2Fimg.png">
 
 
 ## 사용한 기술 스택
